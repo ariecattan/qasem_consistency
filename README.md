@@ -47,6 +47,14 @@ Each `qa` is a JSON object that appears in the form:
 }
 ```
 
+# QASEM parser
+
+You can use our QASEM parsers with [this](https://github.com/plroit/qasem_parser) repo. 
+
+# Annotation tool
+
+https://github.com/ariecattan/loc-unfaith
+
 # Citation
 
 ```bash
