@@ -47,9 +47,12 @@ Each `qa` is a JSON object that appears in the form:
 }
 ```
 
-# QASEM parser
+# Models
 
-You can use our QASEM parsers with [this](https://github.com/plroit/qasem_parser) repo. 
+Our QASem parsers can be found here: https://github.com/plroit/qasem_parser
+
+T5-XL: https://huggingface.co/cattana/flan-t5-xl-qasem-joint-tokenized  
+T5-Large: https://huggingface.co/cattana/flan-t5-large-qasem-joint-tokenized
 
 # Annotation tool
 
